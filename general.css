@@ -10,9 +10,10 @@ h1 {font-family: Ariel, sans-serif;
             color: #f00;
 }
 h2 {
-    color:inherit;
+    color: #000;
     font-size: 2rem;
-    font-family:serif
+    font-family:serif;
+    background-color: #fff
 }
 h1 + p { font-size: 1.2rem;
         font-family:serif

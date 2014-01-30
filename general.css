@@ -1,5 +1,20 @@
 html { font-family: arial, helvetica , sans-serif;
 }
 
-body { background-color: #ccc;
+body { 
+  background-color: #ace5f8;
 }
+h1 {font-family: Georgia, "Times New Roman", serif;
+            font-weight: normal;
+            font-size: 3rem;
+            color: #f00;
+}
+h2 {
+    color: #000;
+    font: times;
+}
+h1 + p { font-size: 1.2rem;
+}
+img { border: 5px;
+}
+

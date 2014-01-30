@@ -2,19 +2,26 @@ html { font-family: arial, helvetica , sans-serif;
 }
 
 body { 
-  background-color: #ace5f8;
+  background-color: #FDFBDD;
 }
-h1 {font-family: Georgia, "Times New Roman", serif;
-            font-weight: normal;
-            font-size: 3rem;
+h1 {font-family: Ariel, sans-serif;
+            font-weight: lighter;
+            font-size: 4rem;
             color: #f00;
 }
 h2 {
-    color: #000;
-    font: times;
+    color:inherit;
+    font-size: 2rem;
+    font-family:serif
 }
 h1 + p { font-size: 1.2rem;
+        font-family:serif
 }
-img { border: 5px;
+img { align-content:center;
+      border-color:#f00;
+}
+hr { color: #f00;
 }
 
+ol { font-size: .8rem;
+}
